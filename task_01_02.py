@@ -10,6 +10,7 @@ sum = int(input())
 
 # sum = 6
 
+
 p = sum // 6
 k = (sum // 6) * 4
 s = sum // 6
