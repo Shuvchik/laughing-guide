@@ -17,4 +17,5 @@ if sumb == sumc:
     print('Ура!')
 else:
     print('В следующий раз повезет!')
+
 # print(b, c, sumb, sumc)
